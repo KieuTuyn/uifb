@@ -1,8 +1,8 @@
 import React from 'react';
 import {StyleSheet, Text, View} from 'react-native';
-import {ratioH, ratioW} from '../../../ultis/RatioScale.tsx';
-import Setting_noti from '../../../assets/icons/setting_noti.svg';
-import Search_noti from '../../../assets/icons/search_noti.svg';
+import {ratioH, ratioW} from '../../../../ultis/RatioScale.tsx';
+import Setting_noti from '../../../../assets/icons/setting_noti.svg';
+import Search_noti from '../../../../assets/icons/search_noti.svg';
 
 const HeaderNoti = () => (
   <View style={styles.container}>
